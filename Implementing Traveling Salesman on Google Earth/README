@@ -1,0 +1,2 @@
+In this project, I implemented traveling salesman problem based on records on location of crimescenes in Pittsburgh in 1990.
+The user will have to insert the index of those records, and then my program will compute the shortest path of that locations using minimum spanning tree and traveling salesman algorithm
