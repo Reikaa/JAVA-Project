@@ -1,5 +1,3 @@
-package homework6;
-
 import java.util.HashMap;
 
 /**
