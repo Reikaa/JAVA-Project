@@ -1,1 +1,4 @@
-This project simulates a Turing machine working on a tape filled with blanks and counting in binary until the size of the desired output is reached. The size of the output is specified in bits by the user at run time
+This project simulates a Turing machine working on a tape filled with blanks and counting in binary until the size of the desired output is reached. 
+The size of the output is specified in bits by the user at run time.
+
+Run the Turing.java
