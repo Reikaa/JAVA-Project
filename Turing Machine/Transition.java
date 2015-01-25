@@ -1,5 +1,3 @@
-package homework6;
-
 /**
  * New class transition for the Turing Machine
  * @author ardyadipta
